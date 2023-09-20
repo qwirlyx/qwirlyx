@@ -1,0 +1,36 @@
+/* Task 49.1
+p:first-of-type{
+    color: red;
+}
+*/
+
+/* Task 49.2 
+h2:last-of-type{
+    color: red;
+}
+*/
+
+/* Task 49.3 
+h2:nth-of-type(2){
+    color: red;
+}
+*/
+
+/* Task 49.4 
+h2:nth-last-of-type(2){
+    color: red;
+}
+*/
+
+/* Task 49.5 */
+div{
+    border: 1px dashed black;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+h2:only-of-type{
+    color: red;
+}
+
+
+

@@ -1,0 +1,22 @@
+/* Task 33.1
+p.bbb {
+	color: red;
+}
+*/
+
+/* Task 33.2
+p .bbb {
+	color: red;
+}
+ */
+
+/* Task 33.3 
+.eee p.bbb {
+	color: red;
+}
+*/
+
+/* Task 33.4 */
+.eee p .bbb {
+	color: red;
+}

@@ -1,0 +1,95 @@
+/* Task 40.1
+div{
+    color: red;
+}
+*/
+
+/* Task 40.2 
+div h2{
+    color: red;
+}
+*/
+
+/* Task 40.3
+#block p{
+    color: red;
+}
+ */
+
+/* Task 40.4 
+#block h2{
+    color: red;
+}
+*/
+
+/* Task 40.5 
+.bbb{
+    color: red;
+}
+*/
+
+/* Task 40.6 
+#block .bbb{
+    color: red;
+}
+*/
+
+/* Task 40.7 
+p.bbb{
+    color: red;
+}
+*/
+
+/* Task 40.8 
+h2.bbb{
+    color: red;
+}
+*/
+
+/* Task 40.9 
+#block p.bbb{
+    color: red;
+}
+*/
+
+/* Task 40.10 
+.bbb, .xxx{
+    color: red;
+}
+*/
+
+/* Task 40.11 
+p.bbb, h2.xxx{
+    color: red;
+}
+*/
+
+/* Task 40.12 
+#block p.bbb, #block p.xxx{
+    color: red;
+}
+*/
+
+
+/* Task 40.13 
+.fff{
+    color: red;
+}
+*/
+
+/* Task 40.14 
+.fff p{
+    color: red;
+}
+*/
+
+/* Task 40.15 
+p.fff {
+    color: red;
+}
+*/
+
+/* Task 40.16 */
+.fff h2.bbb{
+    color: red;
+}

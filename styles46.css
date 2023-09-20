@@ -1,0 +1,36 @@
+/* Task 46.1
+a:link {
+	color: red;
+}
+
+a:visited {
+	color: green;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	color: blue;
+}
+*/
+
+/* Task 46.2 */
+a:link {
+	color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+	color: blue;
+    text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+    color: red;
+}
+a:active {
+	color: blue;
+    text-decoration: none;
+}
+
+

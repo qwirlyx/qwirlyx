@@ -1,0 +1,10 @@
+/* Task 42.1
+#elem + li{
+    color: red;
+}
+*/
+
+/* Task 42.1 */
+.elem + li{
+    color: red;
+}

@@ -1,0 +1,36 @@
+/* Task 47.1 
+a {
+	color: red;
+}
+
+a:hover {
+	text-decoration: none;
+}
+*/
+
+
+/* Task 47.2 
+a.zzz {
+	color: red;
+}
+a.zzz:hover {
+	text-decoration: none;
+}
+*/
+
+/* Task 47.3 
+#block a.zzz {
+	color: red;
+}
+#block a.zzz:hover {
+	text-decoration: none;
+}
+*/
+
+/* Task 47.4 */
+.block a.zzz {
+	color: red;
+}
+.block a.zzz:hover {
+	text-decoration: none;
+}

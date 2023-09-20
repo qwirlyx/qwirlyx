@@ -1,0 +1,23 @@
+/* Task 36.1 
+#elem h2{
+    color: red;
+}
+*/
+
+/* Task 36.2 
+ #elem .text{
+    color: red;
+ }
+*/
+
+ /* Task 36.3 
+#elem p.text{
+    color: red;
+}
+
+*/
+
+/* Task 36.4 */
+#elem li.text{
+    color: red;
+}

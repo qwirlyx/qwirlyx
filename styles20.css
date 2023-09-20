@@ -1,0 +1,28 @@
+/* Task 20.1
+p{
+    text-decoration: overline;
+    color: red;
+    font-size: 20px;
+}
+*/
+
+/* Task 20.2
+p{
+    text-decoration: line-through;
+    color: green;
+}
+*/
+
+/* Task 20.3
+p{
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: Arial;
+}
+*/
+
+/* Task 20.4 */
+a{
+    text-decoration: noneA;
+    color: red;
+}

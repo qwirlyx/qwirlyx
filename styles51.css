@@ -1,0 +1,17 @@
+/* Task 51.1
+p{
+    width: 200px;
+    height: 200px;
+    background-color: darkorchid;
+}
+*/
+
+/* Task 51.2 */
+p{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    width: 300px;
+    height: 200px;
+    background-color: lightseagreen;
+}

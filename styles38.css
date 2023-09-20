@@ -1,0 +1,88 @@
+/* Task 38.1
+.bbb.zzz {
+	color: red;
+}
+*/
+
+/* Task 38.2 
+h2.bbb.zzz {
+	color: red;
+}
+*/
+
+/* Task 38.3 
+#elem.bbb {
+	color: red;
+}
+*/
+
+/* Task 38.4 
+#elem.bbb.zzz {
+	color: red;
+}
+*/
+
+/* Task 38.5 
+h2#elem.bbb {
+	color: red;
+}
+*/
+
+/* Task 38.6 
+h2.zzz {
+	color: red;
+}
+*/
+
+/* Task 38.7 
+h2 .zzz {
+	color: red;
+}
+*/
+
+/* Task 38.8 
+.bbb.zzz {
+	color: red;
+}
+*/
+
+/* Task 38.9 
+.bbb .zzz {
+	color: red;
+}
+*/
+
+/* Task 38.10 
+.bbb.zzz.xxx {
+	color: red;
+}
+*/
+
+/* Task 38.11 
+.bbb .zzz.xxx {
+	color: red;
+}
+*/
+
+/* Task 38.12 
+.bbb.zzz .xxx {
+	color: red;
+}
+*/
+
+/* Task 38.13 
+.bbb .zzz .xxx {
+	color: red;
+}
+*/
+
+/* Task 38.14 
+#elem.bbb {
+	color: red;
+}
+*/
+
+/* Task 38.15 */
+#elem .bbb {
+	color: red;
+}

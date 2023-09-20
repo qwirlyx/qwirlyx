@@ -1,0 +1,27 @@
+/* Task 50.1
+li{
+    color: red;
+}
+.elem{
+    color: black;
+}
+*/
+
+/* Task 50.2 
+li{
+    color: red;
+}
+
+li:first-child{
+    color: black;
+}
+*/
+
+/* Task 50.3 */
+li{
+    color: red;
+}
+
+li:first-child, li:last-child{
+    color: black;
+}
