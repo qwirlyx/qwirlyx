@@ -1,0 +1,21 @@
+/* Task 54.1
+#elem{
+    width: 300px;
+    height: 200px;
+    border-right: 3px solid green;
+    border-left: 3px solid orange;
+    border-top: 3px solid darkblue;
+    border-bottom: 3px solid red;
+}
+*/
+
+
+/* Task 54.2 */
+#elem{
+    width: 300px;
+    height: 200px;
+    border-right: 3px dotted green;
+    border-left: 3px solid red;
+    border-top: 1px solid darkblue;
+    border-bottom: 1px solid darkblue;
+}

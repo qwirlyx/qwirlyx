@@ -1,0 +1,25 @@
+/* Task 55.1
+#elem{
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 20px;
+}
+*/
+
+/* Task 55.2 
+#elem{
+    width: 200px;
+    height: 200px;
+    background-color: lightseagreen ;
+    border-radius: 20px;
+}
+*/
+
+/* Task 55.3 */
+#elem{
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 100px;
+}

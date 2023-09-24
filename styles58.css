@@ -1,0 +1,88 @@
+/* Task 58.1
+#elem{
+    background-image: url(bg.png);
+
+    width: 4000000px;
+	height: 30000000px;
+}
+*/
+
+
+/* Task 58.2 
+#elem{
+    background-image: url(bg.png);
+
+    width: 300px;
+	height: 30000000px;
+}
+*/
+
+/* Task 58.3 
+#elem{
+    background-image: url(bg.png);
+
+    width: 30000000px;
+	height: 200px;
+}
+*/
+
+/* #58.4(1)
+#elem {
+	background-image: url("IMG.JPG");
+    background-position: center center;
+	background-repeat: no-repeat;
+	width: 1000px;
+	height: 1000px;
+	border: 1px solid black;
+}
+*/
+
+/* #58.4(2)
+#elem {
+	background-image: url("IMG.JPG");
+    background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 300px 300px;
+	width: 1000px;
+	height: 1000px;
+	border: 1px solid black;
+}
+*/
+
+/* #58.4(3)
+#elem {
+	background-attachment: fixed;
+	background-image: url("i.png");
+	background-repeat: no-repeat;
+	text-align: justify;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 50px;
+	color: white;
+}
+*/
+
+/* #58.4(4)
+#elem {
+	background-image: url("IMG.JPG");
+	background-repeat: no-repeat;
+	background-clip: content-box;
+	background-size: 300px 300px;
+	width: 1000px;
+	height: 1000px;
+	border: 1px solid black;
+	padding: 30px;
+}
+*/
+
+/* #58.4(5)
+#elem {
+	background-image: url("IMG.JPG");
+	background-origin: border-box;
+	border: 10px dashed black;
+	padding: 30px;
+	width: 1000px;
+	height: 1000px;
+	border: 1px solid black;
+}
+*/
