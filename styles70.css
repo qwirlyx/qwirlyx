@@ -1,0 +1,34 @@
+/* Task 1*/
+p {
+    border: 1px solid blue; /*тег p является блочным*/
+}
+
+/* Task 2*/
+b {
+    border: 1px solid blue; /*тег b является строчным*/
+}
+
+/* Task 3*/
+h2 {
+    border: 1px solid blue; /*тег h2 является блочным*/
+}
+
+/* Task 4*/
+h3 {
+    border: 1px solid blue; /*тег h3 является блочным*/
+}
+
+/* Task 5*/
+i {
+    border: 1px solid blue; /*тег i является строчным*/
+}
+
+/* Task 6*/
+p {
+    border: 1px solid blue; /*тег p является блочным*/
+}
+
+/* Task 7*/
+a {
+    border: 1px solid blue; /*тег a является строчным*/
+}

@@ -1,0 +1,84 @@
+/* Task 1 */
+/*
+.parent	{
+	display: flex;
+	flex-direction: row;
+    justify-content: flex-end;
+    margin: 20px auto;
+	width: 900px;
+	height: 400px;
+	border: 1px solid red;
+}
+.child {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+}*/
+
+/* Task 2 */
+/*
+.parent	{
+	display: flex;
+	flex-direction: column;
+    justify-content: flex-end;
+    margin: 20px auto;
+	width: 900px;
+	height: 400px;
+	border: 1px solid red;
+}
+.child {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+}*/
+
+/* Task 3 */
+/*
+.parent	{
+	display: flex;
+	flex-direction: row-reverse;
+    justify-content: flex-start;
+    margin: 20px auto;
+	width: 900px;
+	height: 400px;
+	border: 1px solid red;
+}
+.child {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+}*/
+
+/* Task 4 */
+/*
+.parent	{
+	display: flex;
+	flex-direction: row-reverse;
+    justify-content: flex-end;
+    margin: 20px auto;
+	width: 900px;
+	height: 400px;
+	border: 1px solid red;
+}
+.child {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+}*/
+
+/* Task 5 */
+/*
+.parent	{
+	display: flex;
+	flex-direction: column-reverse;
+    justify-content: flex-end;
+    margin: 20px auto;
+	width: 900px;
+	height: 400px;
+	border: 1px solid red;
+}
+.child {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+}*/

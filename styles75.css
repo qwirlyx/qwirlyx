@@ -1,0 +1,85 @@
+/* Task 1*/
+/*
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+    
+}
+.child {
+	padding: 10px;
+	border: 1px solid green;
+    display: inline-block;
+    margin: 5px;
+}*/
+
+/* Task 2*/
+/*
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+.child {
+	padding: 10px;
+	border: 1px solid green;
+    display: inline-block;
+}*/
+
+/* Task 3*/
+/*
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+    padding-right: 20px;
+}
+.child {
+	padding: 10px;
+	border: 1px solid green;
+    display: inline-block;
+}*/
+
+/* Task 4*/
+/*
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+.child {
+	padding: 10px;
+	border: 1px solid green;
+    display: inline-block;
+    margin-right: 20px;
+}*/
+
+/* Task 5*/
+/*
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+.child {
+	padding: 10px;
+
+	border: 1px solid green;
+    display: inline-block;
+    width: 100px;
+}*/
+
+/* Task 6*/
+/*
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+}
+.child {
+	padding: 10px;
+
+	border: 1px solid green;
+    display: inline-block;
+    width: 100px;
+}*/
