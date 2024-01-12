@@ -1,0 +1,197 @@
+/* Task 1*/
+/*
+#parent {
+	position: relative;
+	width: 500px;
+	height: 400px;
+	margin: 0 auto;
+	border: 1px solid green;
+}
+#child {
+	position: relative;
+	top: 100px;
+	left: 100px;
+	
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+}*/
+
+/* Task 2*/
+/*
+#parent {
+	position: relative;
+	width: 500px;
+	height: 400px;
+	margin: 0 auto;
+    background-color: #4DEE99;
+}
+#child1 {
+	position: absolute;
+	top: 50px;
+	left: 50px;
+	
+	width: 100px;
+	height: 100px;
+    background-color: white;
+}
+#child2 {
+	position: absolute;
+	bottom: 50px;
+	right: 50px;
+	
+	width: 100px;
+	height: 100px;
+    background-color: white;
+}*/
+
+/* Task 3*/
+/*
+#parent {
+	position: relative;
+	width: 200px;
+	height: 430px;
+	margin: 0 auto;
+    border: 1px solid black;
+}
+#child1 {
+	position: absolute;
+	top: 50px;
+	left: 50px;
+
+	width: 100px;
+	height: 100px;
+    border-radius: 50%;
+    background-color: red;
+    border: 1px solid black;
+}
+#child2 {
+	position: absolute;
+	bottom: 165px;
+	right: 50px;
+
+	width: 100px;
+	height: 100px;
+    border-radius: 50%;
+    background-color: yellow;
+    border: 1px solid black;
+}
+#child3 {
+	position: absolute;
+	bottom: 50px;
+	right: 50px;
+
+	width: 100px;
+	height: 100px;
+    border-radius: 50%;
+    background-color: green;
+    border: 1px solid black;
+}*/
+
+/* Task 4*/
+/*
+#parent {
+	position: relative;
+	width: 500px;
+	height: 500px;
+	margin: 0 auto;
+    border-radius: 50%;
+    background-color: rgb(77,238,153);
+}
+#child1 {
+	position: absolute;
+	top: 70px;
+	left: 100px;
+
+	width: 100px;
+	height: 100px;
+    border-radius: 50%;
+    background-color: white;
+}
+#child2 {
+	position: absolute;
+	top: 70px;
+	right: 100px;
+
+	width: 100px;
+	height: 100px;
+    border-radius: 50%;
+    background-color: white;
+}
+#child3 {
+	position: absolute;
+	bottom: 230px;
+	left: 215px;
+
+	width: 70px;
+	height: 70px;
+    background-color: white;
+}
+#child4 {
+	position: absolute;
+	bottom: 130px;
+	right: 150px;
+
+	width: 200px;
+	height: 20px;
+    background-color: white;
+}*/
+
+/* Task 5*/
+
+#parent {
+	position: relative;
+	width: 400px;
+	height: 400px;
+	margin-top: 100px;
+    margin-left: 600px;
+    border-radius: 50%;
+    background-color: rgb(196,205,20);
+}
+#child1 {
+	position: absolute;
+	bottom: 45px;
+	left: 100px;
+
+	width: 200px;
+	height: 200px;
+    border-radius: 50%;
+    background-color: white;
+}
+#child2 {
+	position: absolute;
+	bottom: 70px;
+	left: 50px;
+
+	width: 300px;
+	height: 300px;
+    border-radius: 50%;
+    background-color: rgb(196,205,20);
+}
+#child3 {
+	position: absolute;
+	bottom: 130px;
+	left: 165px;
+    border-radius: 50%;
+	width: 70px;
+	height: 70px;
+    background-color: white;
+}
+#child4 {
+	position: absolute;
+	top: 70px;
+	left: 80px;
+    border-radius: 50%;
+	width: 80px;
+	height: 80px;
+    background-color: white;
+}
+#child5 {
+	position: absolute;
+	top: 70px;
+	right: 80px;
+    border-radius: 50%;
+	width: 80px;
+	height: 80px;
+    background-color: white;
+}

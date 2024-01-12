@@ -1,0 +1,61 @@
+/* Task 1 */
+/*
+#menu {
+ display: flex;
+}
+#menu a {
+    padding: 10px 25px;
+    margin-right: 10px;
+ font: 16px Arial;
+ text-decoration: none;
+ color: white;
+ border: 1px solid rgb(22,161,119);
+ background-color: rgb(22,161,119);
+}
+#menu a:hover, #menu a.active {
+ color: rgb(22,161,119);
+ border: 1px solid rgb(22,161,119);
+ background-color: white;
+}*/
+
+/* Task 2 */ /*check html*/
+/*
+#menu {
+ display: flex;
+    flex-direction: column;
+}
+#menu a {
+ margin-bottom: 10px;
+    padding: 15px 25px;
+    width: 248px;
+    margin-right: 10px;
+ font: 16px Arial;
+ text-decoration: none;
+ color: white;
+ border: 1px solid rgb(22,161,119);
+ background-color: rgb(22,161,119);
+}
+#menu a:hover, #menu a.active {
+ color: rgb(22,161,119);
+ border: 1px solid rgb(22,161,119);
+ background-color: white;
+}*/
+
+/* Task 3 */
+/*
+#menu {
+ display: flex;
+}
+#menu a {
+    margin-top: 300px;
+    padding: 14px 39px;
+ font: 16px Arial;
+ text-decoration: none;
+ color: white;
+ border: 1px solid rgb(22,161,119);
+ background-color: rgb(22,161,119);
+}
+#menu a:hover, #menu a.active {
+ border: 1px solid rgb(22,120,92);
+ background-color: rgb(22,120,92);
+}*/
