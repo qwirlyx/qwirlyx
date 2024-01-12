@@ -1,0 +1,63 @@
+/* Task 1*/
+/*
+.parent {
+	display: flex;
+	justify-content: center;
+    border: 1px solid red;
+    width: 900px;
+    height: 400px;
+}
+
+.child {
+    border: 1px solid green;
+    width: 120px;
+    height: 60px;
+}*/
+
+/* Task 2*/
+/*
+.parent {
+	display: flex;
+	justify-content: space-between;
+    border: 1px solid red;
+    width: 900px;
+    height: 200px;
+}
+
+.child {
+    border: 1px solid green;
+    width: 120px;
+    height: 60px;
+}*/
+
+/* Task 3*/
+/*
+.parent {
+	display: flex;
+	justify-content: space-around;
+    border: 1px solid red;
+    width: 900px;
+    height: 200px;
+}
+
+.child {
+    border: 1px solid green;
+    width: 120px;
+    height: 60px;
+}*/
+
+/* Task 4*/
+/*
+.parent {
+	display: flex;
+	justify-content: space-evenly;
+    border: 1px solid red;
+    width: 900px;
+    height: 200px;
+}
+
+.child {
+    border: 1px solid green;
+    width: 120px;
+    height: 60px;
+}*/

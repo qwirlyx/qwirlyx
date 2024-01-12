@@ -1,0 +1,147 @@
+/* Task 1 */
+/*
+#wrapper {
+    width: 700px;
+    margin: 50px auto;
+    border: 1px solid black;
+}
+   
+#menu {
+    font: bold 14px 'Arial';
+    display: flex;
+    margin-bottom: 20px;
+    background-color: #484848;
+}
+#menu a {
+    padding: 10px 25px;
+    text-decoration: none;
+    color: #fff;
+}
+#menu a:hover, #menu a.active {
+    color: #484848;
+    background-color: #fff;
+}
+   
+#content {
+    padding: 0 7 10px;
+}
+#content h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+#content p {
+    padding: 0 10px;
+    margin-bottom: 5px;
+    font: 17px 'Times New Roman';
+    text-align: justify;
+}
+.a {
+       color: blue;
+       font-weight: bold;
+}*/
+
+/* Task 2 */
+/*
+body {
+    margin: 0;
+}
+#wrapper {
+    width: 900px;
+    margin: 0px auto 50px;
+    border: 1px solid orange;
+}
+
+#menu {
+    font: bold 14px 'Arial';
+    display: flex;
+    background-color: orange;
+}
+#menu a {
+    padding: 15px 25px;
+    text-decoration: none;
+    color: white;
+    font: bold 15px 'Arial';
+}
+#menu a:hover, #menu a.active {
+    color: orange;
+    background-color: white;
+}
+
+#content h1, #content h2 {
+    text-align: center;
+    margin-bottom: 10px;
+    color: rgb(155,97,0);
+}
+#content h1 {
+    font: 30px 'Times New Roman';
+}
+#content h2 {
+    font: 25px 'Times New Roman';
+}
+#content p {
+    padding: 0 10px;
+    margin-bottom: 5px;
+    font: 17px/33px 'Times New Roman';
+    text-align: justify;
+    text-indent: 50px;
+    color: rgb(205,137,59);
+}
+#content a {
+    color: rgb(205,137,59);
+    text-decoration: underline;
+    font-weight: bold;
+}
+#content a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+#footer {
+    display: flex;
+    justify-content: center;
+    font: 13px 'Arial';
+}
+#footer a {
+    margin: -30px 10px;
+    text-decoration: none;
+    font: bold 13px 'Arial';
+    color: rgb(155,97,0);
+}
+#footer a:hover, #footer a.active {
+    text-decoration: underline;
+    color: black;
+}*/
+
+/* Task 3 */
+
+#wrapper {
+    margin: 0 auto;
+    width: 700px;
+}
+h1 {
+    text-align: center;
+    font: 30px 'Times New Roman';
+}
+
+#content {
+    border: 1px solid black;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    text-align: justify;
+    margin: 10px 0;
+}
+p.more {
+    text-align: right;
+    padding-right: 20px;
+}

@@ -1,0 +1,50 @@
+/* Task 1 */
+/*
+.parent	{
+	display: flex;
+	flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    margin: 20px auto;
+	width: 900px;
+	height: 400px;
+	border: 1px solid red;
+}
+.child {
+	width: 120px;
+	border: 1px solid green;
+}*/
+
+/* Task 2 */
+/*
+.parent	{
+	display: flex;
+	flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    margin: 20px auto;
+	width: 900px;
+	height: 400px;
+	border: 1px solid red;
+}
+.child {
+	height: 40px;
+	border: 1px solid green;
+}*/
+
+/* Task 3 */
+/*
+.parent	{
+	display: flex;
+	flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    margin: 20px auto;
+	width: 900px;
+	height: 400px;
+	border: 1px solid red;
+}
+.child {
+	height: 40px;
+	border: 1px solid green;
+}*/
